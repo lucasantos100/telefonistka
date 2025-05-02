@@ -1,0 +1,10 @@
+apiVersion: commercetools.io/v1alpha1
+kind: Bar
+metadata:
+  name: example-baz-bar
+
+@@ spec.replicas @@
+! ± value change
+- 63
++ 42
+
